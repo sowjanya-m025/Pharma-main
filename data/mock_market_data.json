@@ -1,0 +1,6 @@
+{
+  "therapy_areas": [
+    {"name": "Respiratory", "market_size": 3.2, "CAGR": "5.1%", "competition": "High"},
+    {"name": "Cardiology", "market_size": 4.5, "CAGR": "3.8%", "competition": "Moderate"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "clinical_trials": [
+    {
+      "molecule": "Paracetamol",
+      "indication": "Migraine",
+      "phase": "Phase 3",
+      "sponsor": "HealthCare Innovations",
+      "status": "Ongoing",
+      "location": "India"
+    },
+    {
+      "molecule": "Amoxicillin",
+      "indication": "Respiratory Infections",
+      "phase": "Phase 2",
+      "sponsor": "MedTech Research",
+      "status": "Completed",
+      "location": "USA"
+    },
+    {
+      "molecule": "Ibuprofen",
+      "indication": "Chronic Arthritis",
+      "phase": "Phase 2",
+      "sponsor": "BioGen Therapeutics",
+      "status": "Recruiting",
+      "location": "Germany"
+    }
+  ]
+}

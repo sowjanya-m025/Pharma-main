@@ -1,0 +1,34 @@
+{
+  "API_Exports": [
+    {
+      "molecule": "Paracetamol",
+      "export_volume_kg": 500000,
+      "top_countries": ["USA", "Germany", "Brazil"],
+      "growth_rate": 3.2,
+      "dependency": "Low"
+    },
+    {
+      "molecule": "Amoxicillin",
+      "export_volume_kg": 220000,
+      "top_countries": ["India", "UK", "South Africa"],
+      "growth_rate": 4.8,
+      "dependency": "Medium"
+    }
+  ],
+  "API_Imports": [
+    {
+      "molecule": "Ibuprofen",
+      "import_volume_kg": 700000,
+      "source_countries": ["China", "Mexico"],
+      "growth_rate": 2.1,
+      "dependency": "High"
+    },
+    {
+      "molecule": "Ciprofloxacin",
+      "import_volume_kg": 180000,
+      "source_countries": ["China", "Italy"],
+      "growth_rate": 5.0,
+      "dependency": "Medium"
+    }
+  ]
+}

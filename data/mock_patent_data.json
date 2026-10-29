@@ -1,0 +1,28 @@
+{
+  "patents": [
+    {
+      "molecule": "Paracetamol",
+      "patent_number": "US1234567A",
+      "assignee": "ABC Pharma Ltd",
+      "expiry_date": "2026-08-15",
+      "innovation_focus": "Novel extended-release formulation",
+      "FTO_flag": "Low Risk"
+    },
+    {
+      "molecule": "Amoxicillin",
+      "patent_number": "US9876543B2",
+      "assignee": "XYZ Biotech Inc",
+      "expiry_date": "2027-04-01",
+      "innovation_focus": "Improved bioavailability",
+      "FTO_flag": "Medium Risk"
+    },
+    {
+      "molecule": "Ibuprofen",
+      "patent_number": "EP4561234C",
+      "assignee": "GlobalHealth Pharma",
+      "expiry_date": "2029-12-20",
+      "innovation_focus": "Topical pain relief combination",
+      "FTO_flag": "Low Risk"
+    }
+  ]
+}
