@@ -1,0 +1,8 @@
+streamlit
+ollama
+langchain
+langchain-community
+reportlab
+pandas
+matplotlib
+PyMuPDF
